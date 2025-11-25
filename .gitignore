@@ -1,0 +1,25 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+
+# IDE and OS junk
+.vs/
+.vscode/
+.idea/
+*.csproj
+*.sln
+*.user
+.vsconfig
+.DS_Store
+Thumbs.db
+
+# Unity packages
+*.unitypackage
+*.apk
+*.aab
+*.ipa

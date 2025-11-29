@@ -2,5 +2,7 @@
 * text=auto
 
 # Ignore shader files in language stats
-*.shader linguist-detectable=false
-*.hlsl   linguist-detectable=false
+*.hlsl linguist-vendored
+*.cginc linguist-vendored
+*.shader linguist-vendored
+*.compute linguist-vendored
